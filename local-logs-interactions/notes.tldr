@@ -231,9 +231,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 13.628199651479006,
-			"y": -719.673042177323,
-			"z": 0.9091092859556189,
+			"x": 33.4951072873798,
+			"y": -1388.3210275026559,
+			"z": 1.005097904332794,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -269,6 +269,69 @@
 			},
 			"parentId": "page:page",
 			"index": "aWsW2ReV",
+			"typeName": "shape"
+		},
+		{
+			"x": -0.06552960218356674,
+			"y": 1797.6225440364294,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:401Jx-1UHF9CIHqZLxJm-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1110.7249755859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Server Sent Events"
+								},
+								{
+									"type": "text",
+									"text": ":- nofull duplex , no two way. when the server just notifies the user. it runs over http. just a event"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "streaming from the server to the client."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ael6qWeV",
 			"typeName": "shape"
 		},
 		{
@@ -395,12 +458,122 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 3.9141860030863356,
+			"y": 1746.6821903615335,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:J25zhOmW0Sip5Rh9vrefV",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 411.1499938964844,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "WebScoket :- Signalling + chat + join events"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "acTGHGUG",
+			"typeName": "shape"
+		},
+		{
+			"x": -1.6574128080123387,
+			"y": 1460.1429552286218,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5ciFqfLRnX6Dc44e2ROeY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1046.237548828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "ACKs :-"
+								},
+								{
+									"type": "text",
+									"text": " like http here is no status response to confirm the successful client server communication. so,when the "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "client sends the message server returns the same id as the 'ok', unless client gets it , it tries to send the msg."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aY7OFw0V",
+			"typeName": "shape"
+		},
+		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:w30x_AywexNqZ9PGq6-Kr"
+				"shape:401Jx-1UHF9CIHqZLxJm-"
 			],
-			"hoveredShapeId": "shape:w30x_AywexNqZ9PGq6-Kr",
+			"hoveredShapeId": "shape:401Jx-1UHF9CIHqZLxJm-",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -571,6 +744,144 @@
 			},
 			"parentId": "page:page",
 			"index": "aJ7iA2uV",
+			"typeName": "shape"
+		},
+		{
+			"x": -0.06552580683460008,
+			"y": 1628.8827268604318,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BlyHVZzDwx4P4T7T7ejYe",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1074.7249755859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "For works like messages notification chatting apps and... web sockets are good , but to send real time audio,video"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "share , "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "WebRTC"
+								},
+								{
+									"type": "text",
+									"text": " is used. to share every single bit to another device through a server is costly and slow and hectic"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "for the server. rather than we use the WebRTC , for p2p connections. here one user asks the server to start a p2p"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "with another client, and if the second one approves it , server connects them ,and now they are open in a webrtc."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "absG0YvV",
+			"typeName": "shape"
+		},
+		{
+			"x": 514.9091922648413,
+			"y": 1745.8862601446658,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:56CFVOvEnsPDPIjtQ50lP",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 312.82501220703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "WebRTC :- Audio/Video Streaming"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "adQYLl2V",
 			"typeName": "shape"
 		},
 		{
@@ -762,6 +1073,111 @@
 			},
 			"parentId": "page:page",
 			"index": "a4Z2D3xV",
+			"typeName": "shape"
+		},
+		{
+			"x": 0.7304120007308654,
+			"y": 1554.0641630515934,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:oc0kOhRj8m_P0kEjBNI-A",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1040.1624755859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "but, for scaling , multiple servers are working and server 1's updates are unknown to server 2. thats why they"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "use message broker like redis . So a central layer exists."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aacHeMpV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2.3223217740022406,
+			"y": 1522.2264533908299,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PNtXJ2PVqLRSTENcXu_uQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 503.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "pub/sub:-"
+								},
+								{
+									"type": "text",
+									"text": " only the needed audience get the updates.."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aZp50MgV",
 			"typeName": "shape"
 		},
 		{
@@ -1170,8 +1586,7 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "s",
-				"tldraw:geo": "rectangle"
+				"tldraw:size": "s"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -1187,7 +1602,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1188,
-				"h": 702.4000244140625
+				"h": 625.6000366210938
 			},
 			"insets": [
 				false,
@@ -1420,6 +1835,57 @@
 			},
 			"parentId": "page:page",
 			"index": "a8feJkqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2.671142222605525,
+			"y": 1408.2099346282346,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3YeQN65hsaT7eazS_pbxP",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1060.425048828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Socket Envelope:-"
+								},
+								{
+									"type": "text",
+									"text": "  the data which is transfered is needed to be specified , like type of the data , id , metadata.."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aX4Twd9V",
 			"typeName": "shape"
 		},
 		{
